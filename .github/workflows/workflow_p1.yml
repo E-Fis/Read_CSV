@@ -1,0 +1,15 @@
+on: 
+  release:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repo to Dataverse 
+        uses: IQSS/dataverse-uploader@v1.4
+        with:
+          DATAVERSE_TOKEN: ${{secrets.a0f549c3-59c2-4aab-be62-803df461f630}}
+          DATAVERSE_SERVER: https://dataverse.pre.csuc.cat
+          DATAVERSE_DATASET_DOI: doi:10.80051/data591
+          
