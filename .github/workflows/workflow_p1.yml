@@ -1,3 +1,5 @@
+name: Push repo to Dataverse
+
 on: 
   push:
   workflow_dispatch:
