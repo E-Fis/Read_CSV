@@ -12,8 +12,8 @@ jobs:
         uses: IQSS/dataverse-uploader@v1.2
         with:
           DATAVERSE_TOKEN: ${{secrets.a0f549c3-59c2-4aab-be62-803df461f630}}
-          DATAVERSE_SERVER: https://dataverse.csuc.cat
-          DATAVERSE_DATASET_DOI: doi:10.34810/data731
+          DATAVERSE_SERVER: https://dataverse.pre.csuc.cat
+          DATAVERSE_DATASET_DOI: doi:10.80051/data1081
           GITHUB_DIR: READ_CSV
           DELETE: True
           PUBLISH: True
