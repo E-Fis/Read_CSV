@@ -17,3 +17,7 @@ La idea de este repositorio es mostrar como se leen arcivos csv en python
 
 
 [![](<https://img.shields.io/badge/Dataverse DOI-doi:10.34810/data271-blue>)](https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data271)
+
+
+
+![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
