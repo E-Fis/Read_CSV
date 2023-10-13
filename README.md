@@ -22,3 +22,7 @@ Texto insignia:
 <a href="https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data271"><img src="https://img.shields.io/badge/Dataverse-doi:10.34810/data271-blue"></a>
 
 <a href="https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data271"><img src="https://img.shields.io/badge/Dataverse-doi:10.34810/data271-lightgrey"></a>
+
+Custom
+
+<a href="https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data271"><img src="https://img.shields.io/badge/CORA.RDR-doi:10.34810/data271-blue"></a>
