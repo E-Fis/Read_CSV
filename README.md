@@ -23,7 +23,7 @@ La idea de este repositorio es mostrar como se leen arcivos csv en python
 ![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
 
-<a href="https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data271"><img src="https://img.shields.io/badge/CORA.RDR DOI-doi:10.34810/data271-blue"></a>
+<a href="https://github.com/E-Fis/Read_CSV"><img src="https://img.shields.io/badge/GitHub:E-Fis-blue"></a>
 
 
 
