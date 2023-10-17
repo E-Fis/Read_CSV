@@ -1,5 +1,5 @@
 # Read_CSV
-La idea de este repositorio es mostrar como se leen arcivos csv en python
+Como se leen arcivos csv en python
 # Dataverse Bagge
 
 
