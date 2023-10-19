@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send repo to Dataverse 
-        uses: IQSS/dataverse-uploader@v1.2
+        usea: actions/checkout@v2
         with:
           DATAVERSE_TOKEN: ${{'secrets.4bbafd57-2547-45f9-8153-3a188bb0de82'}}
           DATAVERSE_SERVER: https://dataverse.pre.csuc.cat
@@ -17,4 +17,3 @@ jobs:
           GITHUB_DIR: READ_CSV
           DELETE: True
           PUBLISH: True
-          
