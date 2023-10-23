@@ -9,7 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send repo to Dataverse 
-        uses: atrisovic/dataverse-uploader@master
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           DATAVERSE_TOKEN: ${{'secrets.4bbafd57-2547-45f9-8153-3a188bb0de82'}}
           DATAVERSE_SERVER: https://dataverse.pre.csuc.cat/dataverse/PREsubinstancia
